@@ -26,3 +26,4 @@ Crie um DAG com 3 tarefas:
 1. https://airflow.apache.org/docs/apache-airflow/stable/index.html
 2. https://airflow.apache.org/docs/apache-airflow/stable/templates-ref.html
 3. https://requests.readthedocs.io/en/latest/
+4. https://docs.python.org/3/library/csv.html
